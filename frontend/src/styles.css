@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ajustes adicionales para impresión */
+@media print {
+  body { margin: 0; padding: 0; }
+}
